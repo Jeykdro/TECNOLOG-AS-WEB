@@ -1,0 +1,678 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.lugares-memorables-kS5 {
+  box-sizing: border-box;
+  padding: 1.786rem 0rem 1.55rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #c2defc;
+}
+.lugares-memorables-kS5 .iconoir-home-fZ3 {
+  margin: 0rem 0rem 1.175rem 1.308rem;
+  width: 3.0833rem;
+  height: 2.8388rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h {
+  margin-bottom: 0.9rem;
+  width: 100%;
+  height: 29.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB {
+  width: 92.8rem;
+  height: 0.9rem;
+  position: absolute;
+  left: 35.5rem;
+  top: 23.6rem;
+  display: flex;
+  align-items: center;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB .auto-group-gsfp-PtM {
+  width: 23.2709rem;
+  height: 100%;
+  background-color: #078930;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB .auto-group-gsfp-PtM .rectangle-10-xAm {
+  width: 100%;
+  height: 0.9rem;
+  background-color: #0f47af;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB .auto-group-cpgr-6nm {
+  width: 69.5291rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB .auto-group-cpgr-6nm .rectangle-11-f5B {
+  width: 23.2709rem;
+  height: 0.9rem;
+  position: absolute;
+  left: 23.2709rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB .auto-group-cpgr-6nm .rectangle-13-3rR {
+  width: 23.271rem;
+  height: 0.9rem;
+  position: absolute;
+  left: 46.2581rem;
+  top: 0;
+  background-color: #078930;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-12-4bB .auto-group-cpgr-6nm .rectangle-12-np1 {
+  width: 23.2709rem;
+  height: 0.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #da121a;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-15-vvD {
+  width: 144rem;
+  height: 16.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #fff1f3 -0%, rgba(217, 217, 217, 0) 100%);
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-14-RMB {
+  width: 82.9rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 30.55rem;
+  top: 2.5rem;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-14-RMB .tierra-encantada-AJm {
+  width: 26.5rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 28.2rem;
+  top: 7.3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  letter-spacing: 0.126rem;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .group-14-RMB .imbabura-EJd {
+  width: 82.9rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 7rem;
+  font-weight: 600;
+  line-height: 1.605;
+  letter-spacing: 6.09rem;
+  color: #182204;
+  font-family: Khula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .lugares-memorable-fuj {
+  width: 30.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 21.2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  letter-spacing: 0.126rem;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .mask-group-wcM {
+  width: 13.7rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 128.3rem;
+  top: 17.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-11-Fsw {
+  width: 124.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 14.6rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #0f47af;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-44-yZ3 {
+  width: 124.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 14.6rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #0f47af;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-12-tg1 {
+  width: 124.8rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 18.4rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #da121a;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-45-nmP {
+  width: 124.8rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 18.4rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #da121a;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .gastronoma-grm {
+  width: 17.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 101.45rem;
+  top: 14.9rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.0875rem;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .gastronoma-vWD {
+  width: 17.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 101.45rem;
+  top: 14.9rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.0875rem;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .aventura-a4y {
+  width: 13.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 60.15rem;
+  top: 15.3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.0875rem;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .aventura-GiV {
+  width: 13.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 60.15rem;
+  top: 15.3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.0875rem;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .turismo-k7s {
+  width: 11rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 18.85rem;
+  top: 15.3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.0875rem;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .turismo-3sf {
+  width: 11rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 18.85rem;
+  top: 15.3rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.0875rem;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-13-VzZ {
+  width: 0.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 87.1rem;
+  top: 15.4rem;
+  background-color: #078930;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-46-qHj {
+  width: 0.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 87.1rem;
+  top: 15.4rem;
+  background-color: #078930;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-14-y93 {
+  width: 0.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 15.4rem;
+  background-color: #078930;
+}
+.lugares-memorables-kS5 .auto-group-tpxv-k4h .rectangle-47-Jx1 {
+  width: 0.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 15.4rem;
+  background-color: #078930;
+}
+.lugares-memorables-kS5 .auto-group-cghx-eky {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2rem 1.2rem 2.2rem;
+  width: 100%;
+  height: 69.7rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #000000;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-33-bg.png');
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-cghx-eky .auto-group-q8ad-LNu {
+  margin: 1.6rem 65.4rem 0rem 0rem;
+  width: 33.5rem;
+  height: 5.5rem;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.7300000191);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-cghx-eky .auto-group-q8ad-LNu .cascada-de-peguche-G1f {
+  width: 29.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 2.05rem;
+  top: 0.4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-cghx-eky .auto-group-q8ad-LNu .cascada-de-peguche-uqK {
+  width: 29.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 2.05rem;
+  top: 0.4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-cghx-eky .auto-group-9g6m-Bnq {
+  box-sizing: border-box;
+  padding: 14.624rem 6.942rem 14.776rem 6.958rem;
+  width: 40.9rem;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7400000095);
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-cghx-eky .auto-group-9g6m-Bnq .es-un-hermoso-sitio-espiritual-indgena-al-norte-muy-cerca-de-otavalo-aqu-se-puede-disfrutar-de-una-hermosa-cascada-dentro-de-su-paisaje-la-comunidad-ofrece-sus-productos-y-artesanas-en-el-centro-turstico-tambin-con-nios-vale-la-excursin-haca-la-cascada-de-peguche-KPF {
+  max-width: 27rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.37rem;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.lugares-memorables-kS5 .auto-group-tnfb-1vH {
+  margin-bottom: 3.1rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2rem 1.2rem 2.2rem;
+  width: 100%;
+  height: 69.7rem;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.1rem #000000;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-18-bg.png');
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tnfb-1vH .auto-group-dtid-KRB {
+  margin: 4.6rem 65.4rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 5.5rem 0rem 5.6rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(255, 255, 255, 0.7300000191);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tnfb-1vH .auto-group-uehp-ZqK {
+  box-sizing: border-box;
+  padding: 11.15rem 4.213rem 11.15rem 4.387rem;
+  width: 40.9rem;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5099999905);
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-tnfb-1vH .auto-group-uehp-ZqK .el-lago-ms-grande-de-la-provincia-los-indgenas-salen-a-pescar-temprano-por-la-maana-en-sus-canoas-de-paja-y-tambin-toman-un-bao-y-lavan-su-ropa-durante-el-da-en-sus-aguas-el-lago-est-rodeado-de-hosteras-fincas-y-restaurantes-donde-puede-pasar-uno-o-un-par-de-das-de-puro-entretenimiento-y-diversin-puede-tambin-contratar-los-servicios-de-una-barca-que-lo-llevar-alrededor-del-lago-41P {
+  max-width: 32.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.37rem;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.lugares-memorables-kS5 .auto-group-ka5f-tPj {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 4.7rem 2.2rem 1.5rem 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-20-bg.png');
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-ka5f-tPj .auto-group-ff6h-DB7 {
+  margin-bottom: 37.9rem;
+  width: 33.5rem;
+  height: 5.5rem;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.7300000191);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-ka5f-tPj .auto-group-ff6h-DB7 .parque-del-cndor-LFj {
+  width: 27.1rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 3.25rem;
+  top: 0.4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-ka5f-tPj .auto-group-ff6h-DB7 .parque-del-cndor-EM7 {
+  width: 27.1rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 3.25rem;
+  top: 0.4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lugares-memorables-kS5 .auto-group-ka5f-tPj .auto-group-ddp7-Tjf {
+  margin: 0rem 3.8rem 0rem 3.7rem;
+  box-sizing: border-box;
+  padding: 2.808rem 5.367rem 2.392rem 5.433rem;
+  width: calc(100% - 7.5rem);
+  height: 20.1rem;
+  background-color: rgba(255, 255, 255, 0.5099999905);
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-ka5f-tPj .auto-group-ddp7-Tjf .en-un-lugar-mgico-a-la-cumbre-de-curiloma-con-uno-de-los-paisajes-ms-imponentes-de-los-andes-ecuatorianos-se-encuentra-este-refugio-de-fauna-y-flora-y-el-parque-educativo-que-es-el-hbitat-del-majestuoso-cndor-de-los-andes-vultur-gryphus-y-de-otros-buitres-slo-a-45km-de-otavalo-se-ubica-el-parque-del-cndor-este-parque-de-30-acres-es-dirigido-por-una-fundacin-que-se-dedica-al-rescate-de-pjaros-depredadores-como-halcones-guilas-buitres-y-bhos-el-parque-es-nico-por-varias-razones-est-ubicado-sobre-una-colina-llamada-por-la-gente-local-pukara-alto-un-centro-energtico-desde-los-tiempos-precolombinos-donde-quedan-ruinas-de-un-templo-religioso-pre-inca-xwK {
+  max-width: 121.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.333rem;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.lugares-memorables-kS5 .auto-group-txub-J1X {
+  margin-bottom: 3.9rem;
+  box-sizing: border-box;
+  padding: 4.9rem 3rem 3.2rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-22-bg.png');
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-txub-J1X .auto-group-b48q-QaM {
+  margin: 0rem 104.5rem 31.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 3.3rem 0rem 1.8rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(255, 255, 255, 0.7300000191);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-txub-J1X .auto-group-hrvb-rSM {
+  box-sizing: border-box;
+  padding: 2.869rem 1.605rem 2.931rem 1.695rem;
+  width: 38.7rem;
+  height: 25rem;
+  background-color: rgba(255, 255, 255, 0.5099999905);
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-txub-J1X .auto-group-hrvb-rSM .sus-aguas-son-de-color-azulado-el-espejo-de-agua-es-de-aproximadamente-30-metros-sus-abastecimiento-es-desde-el-interior-debido-a-que-no-posee-afluentes-externos-se-encuentra-rodeada-de-inmensa-belleza-natural-desde-vegetacin-exuberante-Nfb {
+  max-width: 35.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.333rem;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.lugares-memorables-kS5 .auto-group-bmdj-9Jy {
+  margin-bottom: 2.45rem;
+  box-sizing: border-box;
+  padding: 4.3rem 4.4rem 2.2rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-25-bg.png');
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-bmdj-9Jy .auto-group-avjw-4gq {
+  margin: 0rem 98.3rem 35.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 2rem 0rem 1.8rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  letter-spacing: 0.112rem;
+  color: #000000;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(255, 255, 255, 0.7300000191);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-bmdj-9Jy .auto-group-qgeu-V1T {
+  margin-left: 81.4rem;
+  box-sizing: border-box;
+  padding: 3.819rem 3.834rem 3.881rem 3.766rem;
+  width: 55.2rem;
+  height: 22.6rem;
+  background-color: rgba(255, 255, 255, 0.5099999905);
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .auto-group-bmdj-9Jy .auto-group-qgeu-V1T .la-belleza-natural-de-su-paisaje-y-la-organizacin-de-competencias-automovilsticas-internacionales-especialmente-en-el-mes-de-septiembre-de-cada-ao-en-l-autdromo-han-impulsado-el-desarrollo-del-turismo-sumndose-a-la-lista-de-lugares-tursticos-del-ecuador-Hi1 {
+  max-width: 47.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.333rem;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+}
+.lugares-memorables-kS5 .group-15-3Ko {
+  margin: 0rem 35.5rem 0rem 33.7rem;
+  box-sizing: border-box;
+  padding-left: 0.2656rem;
+  width: calc(100% - 69.2005rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .group-15-3Ko .basil-lightbulb-alt-outline-kzu {
+  margin: 0rem 0.565rem 0.242rem 0rem;
+  width: 0.9688rem;
+  height: 1.1958rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lugares-memorables-kS5 .group-15-3Ko .alejandro-imbaquingo-universidad-tcnica-particular-de-loja-5GV {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1825;
+  letter-spacing: 0.333rem;
+  color: #000000;
+  font-family: ABeeZee, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
